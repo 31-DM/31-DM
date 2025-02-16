@@ -23,7 +23,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   <tr>
     <td align="center" style="padding: 0; margin: 0;">
       <a href="assets/resume/DM_Resume.png">
-        <img src="assets/resume/DM_Resume.png" width="100%" style="display:block; border:none; margin-top:-60px; margin-bottom:-60px;">
+        <img src="assets/resume/DM_Resume.png" width="100%" style="display:block; border:none; margin-top:-120px; margin-bottom:-120px;">
       </a>
     </td>
   </tr>
