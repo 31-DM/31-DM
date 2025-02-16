@@ -51,8 +51,10 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
     <img src="assets/resume/DM_Resume.png" width="85%">
   </div>
 
-  <p align="center">
-   [**Download Resume (PDF)**](https://raw.githubusercontent.com/31-DM/31-DM/main/assets/resume/DM_Resume.pdf)
-  </p>
+<p align="center">
+  <a href="https://raw.githubusercontent.com/31-DM/31-DM/main/assets/resume/DM_Resume.pdf" download>
+    <b>Download Resume (PDF)</b>
+  </a>
+</p>
 
 </details>
