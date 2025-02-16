@@ -48,13 +48,13 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   <br>
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/31-DM/31-DM.github.io/main/assets/resume/DM_Resume.png" width="85%">
+    <img src="assets/resume/DM_Resume.png" width="85%">
   </div>
 
   <br>
 
   <p align="center">
-    [**Download Resume (PDF)**](https://raw.githubusercontent.com/31-DM/31-DM.github.io/main/assets/resume/DM_Resume.pdf)
+    [**Download Resume (PDF)**](assets/resume/DM_Resume.pdf)
   </p>
 
 </details>
