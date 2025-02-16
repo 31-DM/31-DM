@@ -19,11 +19,15 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 - **Process Automation**: UI Scripting, Workflow Optimization, Digital Transformation  
 
 ## Resume
-<div style="position: relative; top: -120px;">
-  <a href="assets/resume/DM_Resume.png">
-    <img src="assets/resume/DM_Resume.png" width="100%" style="display:block; border:none;">
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="assets/resume/DM_Resume.png">
+        <img src="assets/resume/DM_Resume.png" width="100%" style="display:block; border:none;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 [Download Resume (PDF)](assets/resume/DM_Resume.pdf)  
 
