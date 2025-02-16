@@ -23,7 +23,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   <img src="assets/resume/DM_Resume.png" width="100%" style="border:1px solid #ccc;">
 </a>  
 
-[Download Resume (PDF)](assets/resume/DM_Resume.pdf)  
+[Download Resume (PDF)](assets/resume/DM_Resume.pdf)   \ 
 
 ## Links
 - **Portfolio**: [31-DM.github.io](https://31-dm.github.io/)  
