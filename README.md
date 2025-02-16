@@ -29,6 +29,8 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 
   <br>
 
+  <div align="center" style="width: 75%; margin: 0 auto;">
+  
   | **Dev Misra** | |
   |--------------|----------------------------------|
   | **Tel:** | 609-906-4262 |
@@ -44,13 +46,15 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 
   | |
   |---|
-  | <p align="center"><img src="assets/resume/DM_Resume.png" width="60%"></p> |
+  | <p align="center"><img src="assets/resume/DM_Resume.png"></p> |
 
   <br>
 
   <p align="center">
     [**Download Resume (PDF)**](assets/resume/DM_Resume.pdf)
   </p>
+
+  </div>
 
 </details>
 
