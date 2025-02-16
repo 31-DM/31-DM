@@ -30,7 +30,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   <br>
 
   | **Section** | **Details** |
-  |------------|----------------------------------|s
+  |------------|----------------------------------|
   | **Name** | Dev Misra |
   | **Contact** | [dam387@cornell.edu](mailto:dam387@cornell.edu) |
   | **LinkedIn** | [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/) |
@@ -38,7 +38,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   | **Work Experience** | KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
   | **Certifications** | AWS Certified Cloud Practitioner, AWS SysOps Administrator, Databricks Certified Data Engineer Associate |
   | **Technical Skills** | Python, R, SQL, Alteryx, Power BI, Tableau, Excel, PowerPoint, Word |
-  | **Portfolio** |[31-DM.github.io](https://31-dm.github.io/) |
+  | **Portfolio** | [31-DM.github.io](https://31-dm.github.io/) |
 
   <br>
 
@@ -53,7 +53,3 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 </details>
 
 ---
-
-## Links
-- **Portfolio**: [31-DM.github.io](https://31-dm.github.io/)  
-- **LinkedIn**: [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/)
