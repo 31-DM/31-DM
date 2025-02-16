@@ -29,7 +29,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 
   <br>
 
-  <div align="center" style="width: 60%; margin: 0 auto;">
+  <div align="center" style="width: 70%; margin: 0 auto;">
 
   | **Section** | **Details** |
   |------------|----------------------------------|
@@ -48,13 +48,13 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   <br>
 
   <div align="center">
-    <img src="assets/resume/DM_Resume.png" width="70%">
+    <img src="https://raw.githubusercontent.com/31-DM/31-DM.github.io/main/assets/resume/DM_Resume.png" width="85%">
   </div>
 
   <br>
 
   <p align="center">
-    [**Download Resume (PDF)**](assets/resume/DM_Resume.pdf)
+    [**Download Resume (PDF)**](https://raw.githubusercontent.com/31-DM/31-DM.github.io/main/assets/resume/DM_Resume.pdf)
   </p>
 
 </details>
