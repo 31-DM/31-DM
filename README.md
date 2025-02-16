@@ -42,13 +42,15 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 
   <br>
 
-  <p align="center">
-    <img src="assets/resume/DM_Resume.png" width="75%">
-  </p>
+  | |
+  |---|
+  | <p align="center"><img src="assets/resume/DM_Resume.png" width="75%"></p> |
 
   <br>
 
-  [**Download Resume (PDF)**](assets/resume/DM_Resume.pdf)
+  <p align="center">
+    [**Download Resume (PDF)**](assets/resume/DM_Resume.pdf)
+  </p>
 
 </details>
 
