@@ -19,9 +19,9 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 - **Process Automation**: UI Scripting, Workflow Optimization, Digital Transformation  
 
 ## Resume
-<iframe src="https://drive.google.com/file/d/1Ag2A2hSE1I-yFOLxcRn9CqJGAyl-evHU/view?usp=drive_link" width="100%" height="600px"> </iframe>
+<iframe src="https://github.com/31-DM/31-DM.github.io/raw/main/assets/resume/Dev_Misra_Resume.pdf" width="100%" height="600px"></iframe>
 
-[Download Resume](https://drive.google.com/file/d/1Ag2A2hSE1I-yFOLxcRn9CqJGAyl-evHU/view?usp=drive_link)  
+[Download Resume (PDF)](https://github.com/31-DM/31-DM.github.io/raw/main/assets/resume/Dev_Misra_Resume.pdf)  
 
 ## Links
 - **Portfolio**: [31-DM.github.io](https://31-dm.github.io/)  
