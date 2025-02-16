@@ -29,24 +29,27 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 
   <br>
 
-  <div align="center" style="width: 75%; margin: 0 auto;">
-  
-  | **Dev Misra** | |
-  |--------------|----------------------------------|
-  | **Tel:** | 609-906-4262 |
-  | **Email:** | [dam387@cornell.edu](mailto:dam387@cornell.edu) |
-  | **LinkedIn:** | [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/) |
-  | **Education:** | Cornell SC Johnson College of Business (MBA '26), Rutgers Business School (B.S. '21) |
-  | **Work Experience:** | KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
-  | **Certifications:** | AWS Certified Cloud Practitioner, AWS SysOps Administrator, Databricks Certified Data Engineer Associate |
-  | **Technical Skills:** | Python, R, SQL, Alteryx, Power BI, Tableau, Excel, PowerPoint, Word |
-  | **Portfolio:** | [31-DM.github.io](https://31-dm.github.io/) |
+  <div align="center" style="width: 60%; margin: 0 auto;">
+
+  | **Section** | **Details** |
+  |------------|----------------------------------|
+  | **Name** | Dev Misra |
+  | **Tel** | 609-906-4262 |
+  | **Email** | [dam387@cornell.edu](mailto:dam387@cornell.edu) |
+  | **LinkedIn** | [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/) |
+  | **Education** | Cornell SC Johnson College of Business (MBA '26), Rutgers Business School (B.S. '21) |
+  | **Work Experience** | KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
+  | **Certifications** | AWS Certified Cloud Practitioner, AWS SysOps Administrator, Databricks Certified Data Engineer Associate |
+  | **Technical Skills** | Python, R, SQL, Alteryx, Power BI, Tableau, Excel, PowerPoint, Word |
+  | **Portfolio** | [31-DM.github.io](https://31-dm.github.io/) |
+
+  </div>
 
   <br>
 
-  | |
-  |---|
-  | <p align="center"><img src="assets/resume/DM_Resume.png"></p> |
+  <div align="center">
+    <img src="assets/resume/DM_Resume.png" width="70%">
+  </div>
 
   <br>
 
@@ -54,8 +57,4 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
     [**Download Resume (PDF)**](assets/resume/DM_Resume.pdf)
   </p>
 
-  </div>
-
 </details>
-
----
