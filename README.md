@@ -20,10 +20,12 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 
 ## Resume
 <a href="assets/resume/DM_Resume.png">
-  <img src="assets/resume/DM_Resume.png" width="100%" style="border:1px solid #ccc;">
+  <img src="assets/resume/DM_Resume.png" width="100%" style="margin:0; padding:0; display:block;">
 </a>  
 
-[Download Resume (PDF)](assets/resume/DM_Resume.pdf)   \ 
+[Download Resume (PDF)](assets/resume/DM_Resume.pdf)  
+
+&nbsp;
 
 ## Links
 - **Portfolio**: [31-DM.github.io](https://31-dm.github.io/)  
