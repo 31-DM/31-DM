@@ -29,8 +29,6 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   </tr>
 </table>
 
-[Download Resume (PDF)](assets/resume/DM_Resume.pdf)  
-
 ## Links
 - **Portfolio**: [31-DM.github.io](https://31-dm.github.io/)  
 - **LinkedIn**: [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/)  
