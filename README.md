@@ -29,16 +29,16 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
 
   <br>
 
-  | **Section** | **Details** |
-  |------------|----------------------------------|
-  | **Name** | Dev Misra |
-  | **Contact** | [dam387@cornell.edu](mailto:dam387@cornell.edu) |
-  | **LinkedIn** | [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/) |
-  | **Education** | Cornell SC Johnson College of Business (MBA '26), Rutgers Business School (B.S. '21) |
-  | **Work Experience** | KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
-  | **Certifications** | AWS Certified Cloud Practitioner, AWS SysOps Administrator, Databricks Certified Data Engineer Associate |
-  | **Technical Skills** | Python, R, SQL, Alteryx, Power BI, Tableau, Excel, PowerPoint, Word |
-  | **Portfolio** | [31-DM.github.io](https://31-dm.github.io/) |
+  | **Dev Misra** | |
+  |--------------|----------------------------------|
+  | **Tel:** | 609-906-4262 |
+  | **Email:** | [dam387@cornell.edu](mailto:dam387@cornell.edu) |
+  | **LinkedIn:** | [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/) |
+  | **Education:** | Cornell SC Johnson College of Business (MBA '26), Rutgers Business School (B.S. '21) |
+  | **Work Experience:** | KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
+  | **Certifications:** | AWS Certified Cloud Practitioner, AWS SysOps Administrator, Databricks Certified Data Engineer Associate |
+  | **Technical Skills:** | Python, R, SQL, Alteryx, Power BI, Tableau, Excel, PowerPoint, Word |
+  | **Portfolio:** | [31-DM.github.io](https://31-dm.github.io/) |
 
   <br>
 
