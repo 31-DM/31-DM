@@ -1,7 +1,7 @@
 # Dev Misra  
 
 ## About Me
-MBA candidate at Cornell SC Johnson College of Business with a background in business analytics, strategy, and technology consulting. I apply data-driven methodologies to drive decision-making, efficiency, and business transformation.  
+MBA candidate at Cornell SC Johnson College of Business with a background in business analytics, strategy, and consulting. I apply data-driven methodologies to drive decision-making, efficiency, and business transformation.  
 
 Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, where I led cross-functional initiatives in **tech strategy, digital transformation, post-merger integration, and business process optimization** for clients in **telecom, finance, healthcare, and energy**. My expertise lies at the intersection of **business analytics, technology integration, and strategic problem-solving**.  
 
