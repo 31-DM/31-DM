@@ -3,22 +3,15 @@
 ## About Me
 MBA candidate at Cornell SC Johnson College of Business with a background in business analytics, strategy, and consulting. I apply data-driven methodologies to drive decision-making, efficiency, and business transformation.  
 
-Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, where I led cross-functional initiatives in **tech strategy, digital transformation, post-merger integration, and business process optimization** for clients in **telecom, finance, healthcare, and energy**. My expertise lies at the intersection of **business analytics, technology integration, and strategic problem-solving**.  
+Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, where I led cross-functional initiatives in **strategy, transformation, post-merger integration, operations, and business process optimization** for clients in **telecom, finance, healthcare, energy, and more**. My expertise lies at the intersection of **data analytics, strategic problem-solving, and cross-functional collaboration**.  
 
 ## Areas of Expertise
-- Business Strategy and Market Analysis  
-- Data Analytics, Predictive Modeling, and Process Automation  
-- Digital Transformation and Master Data Management (MDM)  
-- Financial Modeling, Risk Analysis, and Decision Optimization  
-- Technology Integration and Enterprise Software Implementation  
-
-## Technical Skills
-| **Category** | **Skills** |
-|-------------|-----------|
-| **Programming & Data Science** | Python, R, SQL, Alteryx |
-| **Business Intelligence** | Power BI, Tableau, Excel, PowerPoint |
-| **Cloud & Data Strategy** | AWS (Certified Cloud Practitioner, SysOps Administrator), Databricks |
-| **Process Automation** | UI Scripting, Workflow Optimization, Digital Transformation |
+- Business Strategy and Market Analysis
+- Data Analytics, Predictive Modeling, and Process Automation
+- Financial Modeling, Risk Analysis, and Decision Optimization
+- Digital Transformation and Master Data Management (MDM)
+- Enterprise Wide Integration (Post-Merger Integrations, Software Implementations)
+- Cross-functional Collaboration and Stakeholder Management
 
 ---
 
@@ -39,7 +32,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   | **LinkedIn** | [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/) |
   | **Education** | Cornell SC Johnson College of Business (MBA '26), Rutgers Business School (B.S. '21) |
   | **Work Experience** | KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
-  | **Certifications** | AWS Certified Cloud Practitioner, AWS SysOps Administrator, Databricks Certified Data Engineer Associate |
+  | **Certifications** | AWS Certified Cloud Practitioner, AWS Certified SysOps Administrator - Associate, Databricks Certified Data Engineer Associate |
   | **Technical Skills** | Python, R, SQL, Alteryx, Power BI, Tableau, Excel, PowerPoint, Word |
   | **Portfolio** | [31-DM.github.io](https://31-dm.github.io/) |
 
