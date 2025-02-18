@@ -34,7 +34,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   | **Work Experience** | KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
   | **Certifications** | AWS Certified Cloud Practitioner, AWS Certified SysOps Administrator - Associate, Databricks Certified Data Engineer Associate |
   | **Technical Skills** | Python, R, SQL, Alteryx, Power BI, Tableau, Excel, PowerPoint, Word |
-  | **Portfolio** | [31-DM.github.io](https://31-dm.github.io/) [_Note: _Note: Currently optimizing and finalizing content ASAP while balancing multiple priorities and deadlines._|
+  | **Portfolio** | [31-DM.github.io](https://31-dm.github.io/) [_Currently optimizing and finalizing content ASAP while balancing multiple priorities and deadlines._|
 
   </div>
 
