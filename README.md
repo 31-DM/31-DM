@@ -37,7 +37,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   </div>
 
   <div align="center">
-    <img src="assets/resume/DM_Resume.png" width="85%">
+    <img src="assets/resume/Dev Misra Resume Port.png" width="85%">
   </div>
 
 </details>
