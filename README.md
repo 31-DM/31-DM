@@ -29,7 +29,7 @@ Previously, I worked at KPMG as a consultant in their Digital Lighthouse group, 
   | **Name** | Dev Misra |
   | **LinkedIn** | [linkedin.com/in/dev-misra](https://www.linkedin.com/in/dev-misra/) |
   | **Education** | Cornell SC Johnson College of Business (MBA '26), Rutgers Business School (B.S. '21) |
-  | **Work Experience** | KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
+  | **Work Experience** | Heka Global (GTM Strategy MBA Summer Intern), EXL Service (GTM Strategy MBA Summer Associate), KPMG (Advisory Associate), Compass Pro Bono (Consultant) |
   | **Certifications** | AWS Certified Cloud Practitioner, AWS Certified SysOps Administrator - Associate, Databricks Certified Data Engineer Associate |
   | **Technical Skills** | Python, R, SQL, Alteryx, Power BI, Tableau, Excel, PowerPoint, Word |
   | **Portfolio** | [31-DM.github.io](https://31-dm.github.io/) |
